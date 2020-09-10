@@ -1,2 +1,2 @@
-# bcggamma
-Code for BCG Gamma technical challenge
+# pytest
+Code for python technical challenge
